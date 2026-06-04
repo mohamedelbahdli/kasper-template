@@ -1,3 +1,3 @@
 ### Demo 
 
-https://m-elmorsy.github.io/02---Kasper/
+https://mohamedelbahdli.github.io/kasper-template/
